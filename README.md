@@ -1,7 +1,7 @@
 # Diabetes-Prediction
 Build a System that can Prdict whether a person has diabetes or not with the help of Machine Learning.
 <br>
-This Project is done in Python Anaconda
+This Project is done in Python Anaconda [Jupyter Notebook]
 <br>
 In this project , use Support Vector  Machine model for the Prediction.
 <br>
