@@ -1,5 +1,5 @@
 # Diabetes-Prediction
-Build a System that can Prdict whether a person has diabetes or not with the help of Machine Learning.
+Build a System that can Predict whether a person has diabetes or not with the help of Machine Learning.
 <br>
 This Project is done in Python Anaconda [Jupyter Notebook]
 <br>
